@@ -1,5 +1,5 @@
 import unittest
-import hw00b.triangle_test as triangle_test
+import triangle_test as triangle_test
 
 
 class TestTriangleClassification(unittest.TestCase):
